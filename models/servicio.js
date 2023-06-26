@@ -22,4 +22,4 @@ const ServicioSchema = Schema({
     }
 })
 
-module.exports = model('servicio', ServicioSchema)
+module.exports = model('Servicio', ServicioSchema)
